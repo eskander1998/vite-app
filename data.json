@@ -1,0 +1,38 @@
+{
+  "currentUser": {
+    "image": { 
+      "png": "images/avatars/image-juliusomo.png"
+    },
+    "username": "Eskander",
+    "_id":"63bd828f2fc33ae9caf76e3d"
+  }
+  ,
+  "users": [{
+    "image": { 
+      "png": "images/avatars/image-maxblagun.png"
+    },
+    "username": "Max",
+    "_id":"63bd828f2fc33ae9caf76e4d"
+
+  },
+  {
+    "image": { 
+      "png": "images/avatars/image-ramsesmiron.png"
+    },
+    "username": "Lucas",
+    "_id":"63bd828f2fc33ae9caf76e5d"
+
+  },
+  {
+    
+      "image": { 
+        "png": "images/avatars/image-juliusomo.png"
+      },
+      "username": "Eskander",
+      "_id":"63bd828f2fc33ae9caf76e3d"
+    
+  }
+]
+}
+
+
